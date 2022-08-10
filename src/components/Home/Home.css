@@ -1,0 +1,108 @@
+.home-container {
+  width: 100%;
+  min-height: 80vh;
+  overflow-x: hidden;
+  display: flex;
+  align-items: center;
+  position: relative;
+  animation: fade_in 1s;
+  color: #000;
+  background-color: #fff;
+}
+
+.bg-color {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 40%;
+  background-color: rgb(230, 218, 206);
+}
+
+.home-wrapper {
+  display: flex;
+  flex: 0 0 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: #fff;
+}
+
+.home-wrapper img {
+  max-width: 100%;
+}
+/* -----------------------Image Container------------------------ */
+.imgContainer,
+.descContainer {
+  width: 375px;
+  height: 525px;
+  margin: 0 15px;
+  position: relative;
+}
+
+.imgContainer {
+  background-color: rgb(244, 236, 230);
+  box-shadow: rgba(138, 131, 124, 0.23);
+  z-index: 99;
+}
+
+.imgContainer * {
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.img-container {
+  margin-top: 50px;
+}
+
+.img-container img {
+  height: 210px;
+  border-radius: 10px;
+}
+.imgContainer .social-media {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  padding: 15px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.social-media img,
+.social-media a {
+  display: block;
+  width: 26px;
+  height: 26px;
+  margin: 0 10px;
+}
+
+.imgContainer .name-container {
+  margin: 35px 0 25px;
+  font-weight: 800;
+}
+
+.imgContainer h2 {
+  line-height: 1.2em;
+  font-family: "Poppins-Bold";
+  color: #000;
+}
+
+.imgContainer .break-line {
+  width: 70px;
+  height: 2px;
+  background-color: rgb(0, 80, 225);
+  margin-bottom: 25px;
+}
+
+.imgContainer .name-designation {
+  margin-bottom: 50px;
+  letter-spacing: 0.25em;
+  font-size: 16px;
+  font-family: "Poppins-light";
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #000;
+}
+
+/* -----------------------Description Container------------------------ */
