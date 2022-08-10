@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Flash Generate",
+        "githubLink": "https://github.com/ishubham21/flash-generate",
+        "techstacks": "Node.js, TypeScript, React, Webpack, Babel, Webpack & Babel Plugins",
+        "description": [
+            "Just like Create-React-App, Flash is a beginner-friendly template generator for React applications.",
+            "Flash covers all the major things required in a React application along with optimized build (production and development) times and efficient debugging using source maps.", 
+            "JavaScript chunks, minifying source files, and removing unnecessary dependencies.",
+            "Made use of Yarn (over NPM), and a pre-generated lock-file to save time taken in linking the dependencies and thus, reducing the overall installation time.",
+            "Made use of hot-reloading and source maps to elevate the debugging process for both production and the development environment."
+        ],
+        "id": 11
+    },
+    {
+        "name": "Break",
+        "githubLink": "https://github.com/ishubham21/break",
+        "techstacks": "React, Node, ExpressJS, MongoDB, JWT",
+        "description": [
+            "Break is an online-code-executor (sandbox environment) where users can not only run their code online but also save it for later. It currently supports all the major programming languages including C, C++, Java, Python, and JavaScript.",
+            "Break makes use of React to facilitate the frontend of the application, Node & Express as the backend, and MongoDB as the database.",
+            "Migrated the backend from a monolithic to a microservice-based architecture where each module is a completely different API working towards solving a particular problem.", 
+            "Implemented a JWT-based user-authentication system. Additionally, secured all the API routes using the same JWT-verification middleware.",
+            "Indexed the database collections around userID, and codeID respectively for facilitating a faster query response."
+        ],
+        "id": 10
+    },
+    {
+        "name": "Easify",
+        "githubLink": "https://github.com/MLH-Fellowship/pod-3.1.0-easify",
+        "techstacks": "HTML, CSS, JavaScript, NodeJS, CoachkroachDB, YouTube API, MorphCast SDK",
+        "description": [
+            "Eaisfy is a Chrome Extension to track and enhance developer productivity.",
+            "Features include – Emotion Detection, emotion-based music powered by YouTube API and CockroachDB, attention tracker graph, pose estimation, frequent break reminders, and a website blocker to block distractive websites",
+            "Classification is done in the browser that ensures the security of user's data", 
+            "Easify is capable of working in the background thus have an uptime of 24/7."
+        ],
+        "id": 9
+    },
+    {
+        "name": "Infinity-Skncure",
+        "githubLink": "https://github.com/ishubham21/infinity-skncure-angular",
+        "techstacks": "Angular, Typescript, JavaScript, Firebase, Google Cloud Platform (Google APIs), ML5, p5",
+        "description": [
+            "Infinity Skncure is one of the top 50 global projects selected by Google under the Google Solution Challenge 2021.",
+            "It is web-based(PWA) skin disease predictor that can predict over 10 skin diseases and can even suggest skin doctors in the proximity.",
+            "Features include – Disease detection using images, real-time disease detection, appointment scheduling, skin health tracker, nearby dermatologists on an in-app Google Map, and a community section to post pictures and text in both public and private mode."
+        ],
+        "id": 8
+    },
+    {
+        "name": "Summarizer Command-Line Tool",
+        "githubLink": "https://github.com/ishubham21/summarizer-cli-tool",
+        "techstacks": "NodeJS, JavaScript, MonkeyLearn API",
+        "description": [
+            "It is an interactive command-line interface tool to help you summarize exhaustive texts into smaller ones using text-analysis and Natural Language Processing.",
+            "Users can simply locate the file containing the text that is to be summarized from the command line and print the result anywhere in their machines."
+        ],
+        "id": 7
+    },
+    {
+        "name": "Voice Enabled Code Compiler",
+        "githubLink": "https://ishubham21.github.io/voice-enabled-online-code-editor/",
+        "techstacks": "NodeJS, JavaScript, MonkeyLearn API",
+        "description": [
+            "Developed an interactive online HTML, CSS and JavaScript code compiler with voice recognition to help visually impaired people in learning web technologies."
+        ],
+        "id": 6
+    },
+    {
+        "name": "Event Registration System",
+        "githubLink": "https://techknightsrtu.github.io/online-events/",
+        "techstacks": "Firebase, Firestore, JavaScript, CSS, HTML",
+        "description": [
+            "This website is aimed to reduce the dependency of the college club on third-party resources to book tickets for the events. This project makes use of  Google's Firebase to server backend as a service.",
+            "We've enabled this project to create dynamic events along with dynamic forms, and store the data of participants safely that can be retained in the form of .xls(excel) file."
+        ],
+        "id": 5
+    },
+    {
+        "name": "Technical Blog",
+        "githubLink": "https://github.com/ishubham21/techblog/",
+        "techstacks": "RSS2JSON, Medium API, JavaScript, CSS, HTML",
+        "description": [
+            "This website automatically picks up the content from my medium profile in the form of RSS feed, converts it into JSON and present it to the user."
+        ],
+        "id": 4
+    },
+    {
+        "name": "Cowin Availability",
+        "githubLink": "https://github.com/ishubham21/cowin-availability",
+        "techstacks": "Node, Express, EJS, CoWin API",
+        "description": [
+            "A website built using Node, Express, and EJS, that shows the availability of the COVID-19 vaccine based on the user's area code."
+        ],
+        "id": 3
+    },
+    {
+        "name": "Avengers VS Code Extension",
+        "githubLink": "https://marketplace.visualstudio.com/items?itemName=ShubhamGautam.avengers-theme",
+        "techstacks": "JavaScript, JSON, Markdown",
+        "description": [
+            "This extension comes packed with 6 VS Code themes inspried by the colors of Marvel superheroes. It is a one-strop solution to save the user form downloading various scattered themes available on VSCode Marketplace.",
+            "This extension has crossed over 1350 installations on VS Code."
+        ],
+        "id": 2
+    },
+    {
+        "name": "Simply Sway",
+        "githubLink": "https://github.com/Simpli-Sway/Restaurant-Software",
+        "techstacks": "Django, Python, SQLite, JavaScript, Jinja",
+        "description": [
+            "It is a Django-based restaurant utility system aimed to make cafes more efficient by replacing conventional waiter-customer model by smart devices."
+        ],
+        "id": 1
+    }
+]

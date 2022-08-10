@@ -1,0 +1,54 @@
+.navbar {
+  display: flex;
+}
+
+.navbar .nav-sub-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  margin: 0 50px;
+}
+
+.navbar .nav-blk {
+  width: 10px;
+  height: 10px;
+  padding: 2.5px;
+  background-color: rgb(0, 80, 225);
+}
+
+.nav-title-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-name {
+  line-height: 1.2em;
+  font-family: "Poppins-Bold";
+}
+
+.nav-designation,
+.nav-link-container a {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #000;
+}
+
+.nav-name,
+.nav-designation,
+.slash {
+  margin-left: 8px;
+}
+
+.nav-link-container {
+  margin-left: auto;
+}
+
+.nav-link-container a {
+  margin-left: 15px;
+  letter-spacing: 0.05rem;
+}
+
+.link-active {
+  padding-bottom: 2px;
+  border-bottom: 2px solid rgb(0, 80, 225);
+}
