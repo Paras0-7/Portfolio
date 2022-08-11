@@ -9,7 +9,17 @@ export const DescriptionContainer = function () {
         <Link to="/resume">
           <button className="resume-btn">Resume</button>
         </Link>
+        <Link to="/projects">
+          <button className="project-btn">Projects</button>
+        </Link>
       </div>
+
+      <div className="bio-paragraph">
+        I'm an engineering graduate and a programmer. I work as a Web Developer
+        with experience in handling JavaScript, TypeScript, Node.js, and
+        React.js coding.
+      </div>
+      <div className="bio-paragraph"></div>
     </div>
   );
 };
