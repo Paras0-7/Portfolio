@@ -9,7 +9,7 @@ export const ImgContainer = function () {
   const socialLinks = {
     linkedIn: "https://www.linkedin.com/in/parasrawat07/",
     gitHub: "https://github.com/Paras0-7",
-    mail: "parasrawat937@gmail.com",
+    mail: "https://mail.google.com/mail/>view=cm&fs=1&to=parasrawat937@gmail.com",
     phone: "tel: +917409726986",
     instagram: "https://www.instagram.com/_parasrawat07_/",
   };

@@ -22,12 +22,12 @@ export const NavBar = function () {
             About Me
           </NavLink>
           <NavLink
-            to="/resume"
+            to="/experience"
             className={({ isActive }) =>
               isActive ? "link-active" : "nav-links"
             }
           >
-            Resume
+            Experience
           </NavLink>
           <NavLink
             to="/projects"

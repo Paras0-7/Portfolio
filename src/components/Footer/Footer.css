@@ -1,0 +1,44 @@
+.footer {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #dde;
+  font-size: 14px;
+  color: #000;
+}
+.footer .sub-container {
+  width: 100%;
+  margin: 0 50px;
+  display: flex;
+}
+.footer .social-container {
+  display: flex;
+  margin-left: auto;
+}
+
+.footer .social-container .sub-box {
+  text-align: center;
+  margin-left: 35px;
+}
+
+.footer .text-bold {
+  color: #232323;
+  margin-bottom: 5px;
+}
+.footer .social-icons {
+  display: flex;
+}
+
+.footer .social-icons a {
+  margin-left: 11px;
+}
+
+.footer .social-container,
+.footer .social-container .sub-box {
+  color: #000;
+}
+
+.footer .social-icons img {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}

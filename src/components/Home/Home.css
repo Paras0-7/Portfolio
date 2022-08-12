@@ -41,7 +41,7 @@
 
 .imgContainer {
   background-color: rgb(244, 236, 230);
-  box-shadow: rgba(138, 131, 124, 0.23);
+  box-shadow: rgb(138 131 124 / 23%) -11.31px 11.31px 17px 0px;
   z-index: 99;
 }
 
@@ -140,5 +140,36 @@
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 600;
-  transition: all 0.4s;
+  transition: all 0.5s;
+}
+
+.descContainer .btn-container .resume-btn {
+  background-color: rgb(0, 80, 225);
+  color: #fff;
+  border: 2px solid rgb(0, 80, 225);
+}
+
+.descContainer .btn-container .resume-btn:hover {
+  border: 2px solid rgb(0, 80, 225);
+  background-color: #fff;
+  color: #000;
+}
+.descContainer .btn-container .project-btn {
+  border: 1px solid #000;
+  background-color: #fff;
+  color: #000;
+}
+.descContainer .btn-container .project-btn:hover {
+  background-color: rgb(0, 80, 225);
+  color: #fff;
+  border: 0;
+}
+
+.descContainer .bio-paragraph {
+  line-height: 1.5em;
+  font-size: 16px;
+  letter-spacing: normal;
+  font-family: "Poppins-light";
+  margin-top: 15px;
+  color: #333;
 }

@@ -1,5 +1,8 @@
 .navbar {
   display: flex;
+  align-items: center;
+  font-size: 15px;
+  border-bottom: 1px solid #dde;
 }
 
 .navbar .nav-sub-container {
@@ -45,7 +48,7 @@
 
 .nav-link-container a {
   margin-left: 15px;
-  letter-spacing: 0.05rem;
+  letter-spacing: 0.05em;
 }
 
 .link-active {
