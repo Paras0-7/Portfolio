@@ -12,13 +12,6 @@
   margin: 0 50px;
 }
 
-.navbar .nav-blk {
-  width: 10px;
-  height: 10px;
-  padding: 2.5px;
-  background-color: rgb(0, 80, 225);
-}
-
 .nav-title-container {
   display: flex;
   align-items: center;

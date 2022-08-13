@@ -4,7 +4,7 @@ export const NavBar = function () {
   return (
     <nav className="navbar">
       <div className="nav-sub-container">
-        <div className="nav-blk"></div>
+        <div className="blk"></div>
         <div className="nav-title-container">
           <Link to="/">
             <h2 className="nav-name">Paras Rawat</h2>

@@ -40,6 +40,12 @@ a:visited {
   height: 10vh;
 }
 
+.blk {
+  width: 10px;
+  height: 10px;
+  padding: 2.5px;
+  background-color: rgb(0, 80, 225);
+}
 .text-bold {
   font-family: "Poppins-Bold";
 }
