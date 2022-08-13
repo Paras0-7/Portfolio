@@ -13,6 +13,7 @@
   {
     "name": "Netflix Clone",
     "githubLink": "https://github.com/Paras0-7/netflixClone",
+    "deployed": "https://netflixclone-7.netlify.app/",
     "techstacks": "HTML, CSS, JavaScript, React.js",
     "description": [
       "A basic Netflix clone built with React.js. I used TMDB API to get the movie data."
@@ -22,6 +23,7 @@
   {
     "name": "Forkify",
     "githubLink": "https://github.com/Paras0-7/Forkify",
+    "deployed": "https://forkify-web.netlify.app/",
     "techstacks": "HTML, CSS, JavaScript",
     "description": [
       "Forkify is a web application that uses an API to fetch recipes according to the dish name provided by the user and renders all the details to the user interface."

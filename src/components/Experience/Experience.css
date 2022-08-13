@@ -18,13 +18,12 @@
   align-items: center;
 }
 
-.position-section {
-  width: 50%;
-}
-
 .experience-sub-container .section-divider {
   margin-top: 100px;
   margin-bottom: 40px;
+}
+.position-section {
+  width: 50%;
 }
 
 .experience-sub-container .section-divider h3 {
@@ -48,22 +47,6 @@
 .experience-sub-container .job-title,
 .experience-sub-container .company-name {
   color: #000;
-}
-
-.loading-blk {
-  text-align: center;
-  margin-top: 50px;
-  font-size: 20px;
-}
-
-.experience-sub-container .card {
-  display: flex;
-  justify-content: space-around;
-  background-color: #fff;
-  margin-top: 20px;
-  margin-bottom: 30px;
-  padding: 80px 40px;
-  box-shadow: rgba(138, 131, 124, 0.23) -11.31px 11.31px 25px 0px;
 }
 
 .card .timeline {

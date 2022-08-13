@@ -1,0 +1,77 @@
+.project-container {
+  min-height: 100vh;
+  background-color: rgb(230, 218, 206);
+  animation: fade_in 1s;
+}
+
+.project-sub-container {
+  padding-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+.project-section {
+  margin-top: 40px;
+}
+
+.project-head,
+.project-sub-container .heading,
+.project-sub-container .tech-stacks {
+  color: #000;
+}
+
+.project-sub-container .heading {
+  display: flex;
+  align-items: center;
+}
+
+.project-blk {
+  padding: 5px;
+}
+
+.project-head {
+  font-size: 35px;
+  font-family: "Poppins-Bold";
+  margin-left: 10px;
+}
+
+.card .project-name {
+  color: rgb(0, 80, 225);
+  font-family: "Poppins-Bold";
+  font-weight: 800;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.card .tech-stacks {
+  font-family: "Poppins-Light";
+  margin-bottom: 5px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  margin-bottom: 20px;
+}
+
+.card .project-links {
+  display: flex;
+  gap: 30px;
+}
+.card .visit-project a {
+  font-family: "Poppins-Bold";
+  color: rgb(0, 80, 225);
+}
+
+.project-sub-container .details {
+  flex: 0 0 32%;
+}
+
+.project-sub-container .description {
+  flex: 0 0 60%;
+  color: #222;
+}
+
+.project-sub-container .description li {
+  margin-bottom: 10px;
+}
