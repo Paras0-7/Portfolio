@@ -19,7 +19,7 @@ export const Projects = function () {
           <h2 className="project-head">Projects</h2>
         </div>
 
-        <div className="position-section project-section">
+        <div className="position-section ">
           {notLoaded && <div className="loading-blk">Loading...</div>}
           {projects &&
             projects.map(function (project, i) {
