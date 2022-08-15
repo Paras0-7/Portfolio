@@ -66,6 +66,24 @@ a:visited {
   font-family: "Poppins-Bold";
 }
 
+@keyframes fade_in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+@keyframes bottom_up {
+  0% {
+    transform: translateY(30px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
 ::-webkit-scrollbar {
   width: 5px;
 }
