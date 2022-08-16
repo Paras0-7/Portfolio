@@ -75,3 +75,44 @@
 .project-sub-container .description li {
   margin-bottom: 10px;
 }
+
+/* media queries */
+@media (max-width: 1024px) {
+  .position-section {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .position-section {
+    width: 90%;
+  }
+}
+
+@media (max-width: 539px) {
+  .project-head {
+    font-size: 29px;
+  }
+
+  .project-sub-container {
+    padding: 50px 0;
+  }
+
+  .project-sub-container .card {
+    padding: 40px 15px;
+    flex-wrap: wrap;
+  }
+
+  .project-sub-container .details,
+  .project-sub-container .description {
+    flex: 0 0 80%;
+    justify-content: center;
+  }
+
+  .project-sub-container .description {
+    margin-top: 30px;
+  }
+  .project-blk {
+    padding: 3px;
+  }
+}
