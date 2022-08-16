@@ -52,9 +52,9 @@ export const NavBar = function () {
             href="https://mail.google.com/mail/>view=cm&fs=1&to=parasrawat937@gmail.com"
             target="_blank"
             rel="noreferrer"
-            className={({ isActive }) =>
-              isActive ? "link-active" : "nav-links"
-            }
+            // className={({ isActive }) =>
+            //   isActive ? "link-active" : "nav-links"
+            // }
           >
             Contact
           </a>
@@ -99,9 +99,9 @@ export const NavBar = function () {
               href="https://mail.google.com/mail/>view=cm&fs=1&to=parasrawat937@gmail.com"
               target="_blank"
               rel="noreferrer"
-              className={({ isActive }) =>
-                isActive ? "link-active-mb" : "mobile-nav-links"
-              }
+              // className={({ isActive }) =>
+              //   isActive ? "link-active-mb" : "mobile-nav-links"
+              // }
               onClick={toggleMenu}
             >
               Contact

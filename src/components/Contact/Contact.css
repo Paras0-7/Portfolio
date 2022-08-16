@@ -105,3 +105,34 @@
 .display-none {
   display: none;
 }
+
+/* media queries */
+
+@media (max-width: 539px) {
+  .contact-head {
+    font-size: 29px;
+  }
+
+  .contact-sub-container .form {
+    padding: 25px;
+  }
+
+  .contact-sub-container .details-container {
+    flex-wrap: wrap;
+  }
+
+  .contact-sub-container .form label {
+    flex: 0 0 100%;
+  }
+
+  .contact-sub-container .send {
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  .contact-sub-container .success-blk {
+    bottom: 60px;
+    padding: 12px;
+    font-size: 14px;
+  }
+}

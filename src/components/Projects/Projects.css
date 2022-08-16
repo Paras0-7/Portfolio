@@ -83,15 +83,31 @@
   }
 }
 
+@media (max-width: 820px) {
+  .card .project-links {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
 @media (max-width: 768px) {
   .position-section {
     width: 90%;
+  }
+
+  .card .project-links {
+    flex-direction: column;
+    gap: 10px;
   }
 }
 
 @media (max-width: 539px) {
   .project-head {
     font-size: 29px;
+  }
+
+  .card .project-links {
+    flex-direction: row;
+    gap: 30px;
   }
 
   .project-sub-container {
