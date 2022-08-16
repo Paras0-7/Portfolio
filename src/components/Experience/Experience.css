@@ -87,4 +87,53 @@
   margin-top: 15px;
 }
 
-/* yhnvpkryppfgvqh*/
+/* media queries*/
+
+@media (max-width: 1024px) {
+  .position-section {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .position-section {
+    width: 90%;
+  }
+}
+
+@media (max-width: 539px) {
+  .experience-head {
+    font-size: 29px;
+  }
+
+  .experience-sub-container {
+    padding: 50px 0;
+  }
+  .experience-sub-container .card {
+    padding: 40px 15px;
+
+    flex-wrap: wrap;
+  }
+
+  .experience-sub-container .section-divider {
+    margin-top: 40px;
+  }
+
+  .experience-sub-container .section-divider h3 {
+    font-size: 18px;
+  }
+
+  .experience-sub-container .details,
+  .experience-sub-container .description {
+    flex: 0 0 85%;
+    justify-content: center;
+  }
+
+  .experience-sub-container .description {
+    margin-top: 20px;
+  }
+
+  .exp-blk {
+    padding: 3px;
+  }
+}
