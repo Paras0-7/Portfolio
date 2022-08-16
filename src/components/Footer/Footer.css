@@ -42,3 +42,18 @@
   width: 20px;
   height: 20px;
 }
+
+@media (max-width: 768px) {
+  .footer .sub-container {
+    justify-content: center;
+    margin: 0;
+  }
+
+  .footer .social-container {
+    margin: 0;
+  }
+
+  .footer .social-container .sub-box {
+    margin-left: 0;
+  }
+}
