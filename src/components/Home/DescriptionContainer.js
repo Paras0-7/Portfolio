@@ -7,7 +7,7 @@ export const DescriptionContainer = function () {
       <div className="headline-2">Here's who I am & what I do</div>
       <div className="btn-container">
         <a
-          href="https://drive.google.com/file/d/1E3brfI_QtWNXwcV2PJRt0_DdS1t1gLct/view?usp=sharing"
+          href="https://drive.google.com/file/d/10jRTyYZxiq6qaBptbdYGxD0iaR0BqoEN/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
