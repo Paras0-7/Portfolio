@@ -1,12 +1,22 @@
 [
   {
-    "from": "July 2022",
+    "from": "December 2022",
     "to": "Present",
     "company": "EPAM Systems",
-    "position": "Junior Software Engineer",
+    "position": "Software Engineer",
     "experience": [
-      "Currently working with React + Typescript to develop multiple features for the EPAM Buddy (QnA Page) and to resolve UI bugs."
+      "Currently working to with Angular to develop client's internal/external application.",
+      "Worked on the localization/Internationalization of the applications.",
+      "Currently working on improving the accesibilty of the web applications"
     ],
+    "id": 3
+  },
+  {
+    "from": "July 2022",
+    "to": "November 2022",
+    "company": "EPAM Systems",
+    "position": "Junior Software Engineer",
+    "experience": ["Currently working with React + Typescript to develop multiple features for the EPAM Buddy (QnA Page) and to resolve UI bugs."],
     "id": 2
   },
   {
