@@ -1,22 +1,13 @@
 [
   {
-    "name": "E-Commerce Store",
-    "githubLink": "https://github.com/Paras0-7/React.js/tree/main/e-commerce",
-    "techstacks": "HTML, CSS, JavaScript, React.js, Redux",
+    "name": "React Pizza App",
+    "githubLink": "https://github.com/Paras0-7/react-pizza-app",
+    "deployed": "https://react--pizza-app.vercel.app/",
+    "techstacks": "JavaScript, React.js, Redux, Tailwind.css",
     "description": [
-      "E-Commerce Store is a React application which fetches the book data from an API created with json-server and displays all the books.",
-      "The user can add the books to the cart and check out.",
-      "Used redux to maintain different states for book data."
-    ],
-    "id": 3
-  },
-  {
-    "name": "Netflix Clone",
-    "githubLink": "https://github.com/Paras0-7/netflixClone",
-    "deployed": "https://netflixclone-7.netlify.app/",
-    "techstacks": "HTML, CSS, JavaScript, React.js",
-    "description": [
-      "A basic Netflix clone built with React.js. I used TMDB API to get the movie data."
+      "A react application that let's user add pizza to cart from menu and create an order.",
+      "used React Router’s loader and action data API for loading remote data and handling form submissions.",
+      "used Redux to manage the global state ."
     ],
     "id": 2
   },
@@ -25,9 +16,7 @@
     "githubLink": "https://github.com/Paras0-7/Forkify",
     "deployed": "https://forkify-web.netlify.app/",
     "techstacks": "HTML, CSS, JavaScript",
-    "description": [
-      "Forkify is a web application that uses an API to fetch recipes according to the dish name provided by the user and renders all the details to the user interface."
-    ],
+    "description": ["Forkify is a web application that uses an API to fetch recipes according to the dish name provided by the user and renders all the details to the user interface."],
     "id": 1
   }
 ]

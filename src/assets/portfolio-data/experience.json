@@ -5,9 +5,11 @@
     "company": "EPAM Systems",
     "position": "Software Engineer",
     "experience": [
-      "Currently working to with Angular to develop client's internal/external application.",
-      "Worked on the localization/Internationalization of the applications.",
-      "Currently working on improving the accesibilty of the web applications"
+      "Working With MasterCard team on building new features for Platform Admin",
+      "Developed versatile Angular component for universal project integration, encompassing features such as pagination, popups, and grids, promoting code reusability. Additionally, gained exposure to CI/CD pipelines in Jenkins.",
+      "Collaborated with development teams on code reviews to maintain coding standards and quality. Also, worked closely with stakeholders and design teams to align product development with project goals. Contributed to Application Management, and Maintenance. Collaborated seamlessly with API teams, ensuring requirements alignment. Played a key role in implementing localization/Internationalization feature for the application.",
+      "Earned ”Pat on Back” title for implementing the localization/Internationalization feature on time for release and significantly improving code quality through refactoring, addressing multiple loopholes, bugs, and code smells, and achieving a remarkable increase in unit test coverage from 67% to 86%",
+      "Tech Stack: Angular, TypeScript, JavaScript, Scss, Git-lab, Unit Testing : Karma and Jasmine."
     ],
     "id": 3
   },
@@ -16,7 +18,11 @@
     "to": "November 2022",
     "company": "EPAM Systems",
     "position": "Junior Software Engineer",
-    "experience": ["Currently working with React + Typescript to develop multiple features for the EPAM Buddy (QnA Page) and to resolve UI bugs."],
+    "experience": [
+      "Worked on EPAM internal application - EPAM Buddy",
+      "Created multifunctional React components designed to seamlessly integrate into diverse projects, offering capabilities like pagination, pop-up dialogs, and accordions, with a focus on encouraging the reuse of code, and resolved UI bugs.",
+      "Tech Stack: React, TypeScript, JavaScript"
+    ],
     "id": 2
   },
   {
