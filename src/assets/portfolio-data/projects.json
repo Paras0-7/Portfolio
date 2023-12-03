@@ -1,5 +1,18 @@
 [
   {
+    "name": "Wild Oasis",
+    "githubLink": "https://github.com/Paras0-7/wild-oasis",
+    "deployed": "https://wild--oasis.vercel.app/",
+    "techstacks": "JavaScript, React.js, Context API, React Query, Styled Components",
+    "description": [
+      "A react internal dashboard application for Hotel employees to check daily stats, bookings, and to check-in and checkout customers",
+      "used Context-API to manage the global state .",
+      "used React Router Query to manage the global remote state .",
+      "used Styled Components for CSS ."
+    ],
+    "id": 3
+  },
+  {
     "name": "React Pizza App",
     "githubLink": "https://github.com/Paras0-7/react-pizza-app",
     "deployed": "https://react--pizza-app.vercel.app/",
