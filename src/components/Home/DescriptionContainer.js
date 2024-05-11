@@ -14,7 +14,7 @@ export const DescriptionContainer = function () {
         </Link>
       </div>
 
-      <div className="bio-paragraph">I'm an engineering graduate and a programmer. I work as a Web Developer with experience in handling JavaScript, TypeScript, Node.js, and React.js coding.</div>
+      <div className="bio-paragraph">I am a seasoned FrontEnd Developer with over two years of hands-on experience specializing in JavaScript, TypeScript, React.js, and Node.js technologies. I have been deeply involved in the development and maintenance of diverse web applications.</div>
       <div className="bio-paragraph"></div>
     </div>
   );
