@@ -6,7 +6,7 @@ export const DescriptionContainer = function () {
       <div className="headline-1">Hello</div>
       <div className="headline-2">Here's who I am & what I do</div>
       <div className="btn-container">
-        <a href="https://drive.google.com/file/d/1hAbgZhH2AfisPIfQ_ugp98UL033-X392/view?usp=sharing" target="_blank" rel="noreferrer">
+        <a href="https://drive.google.com/file/d/1KcWH6QiF5-H_bnRUeZhprY-8y_Z6ncQL/view?usp=sharing" target="_blank" rel="noreferrer">
           <button className="resume-btn">Resume</button>
         </a>
         <Link to="/projects">
