@@ -1,15 +1,28 @@
 [
   {
-    "from": "December 2022",
+    "from": "April 2024",
     "to": "Present",
     "company": "EPAM Systems",
-    "position": "Software Engineer",
+    "position": "Software Engineer 2",
     "experience": [
-      "Working With MasterCard team on building new features for Platform Admin",
-      "Developed versatile Angular component for universal project integration, encompassing features such as pagination, popups, and grids, promoting code reusability. Additionally, gained exposure to CI/CD pipelines in Jenkins.",
+         "Working with LSEG Client as a Key Developer to build versatile React components for service performance tracking on the DORA Dashboard.",
+         "Collaborated with the LSEG team to build new features, ensuring alignment with project requirements.",
+         "Tech Stack: React.js, TypeScript, Scss, Git-lab, TailWind CSS, Sonarcube, Jenkins, Jira, Unit Testing: RTL, Jest."
+
+    ],
+    "id": 4
+  },
+  {
+    "from": "December 2022",
+    "to": "March 2024",
+    "company": "EPAM Systems",
+    "position": "Software Engineer 2",
+    "experience": [
+      "Working With Client MasterCard team on building new features for Platform Admin",
+      "Developed versatile React and Angular components for universal project integration, encompassing features such as pagination, popups, and grids, promoting code reusability. Additionally, gained exposure to CI/CD pipelines in Jenkins.",
       "Collaborated with development teams on code reviews to maintain coding standards and quality. Also, worked closely with stakeholders and design teams to align product development with project goals. Contributed to Application Management, and Maintenance. Collaborated seamlessly with API teams, ensuring requirements alignment. Played a key role in implementing localization/Internationalization feature for the application.",
       "Earned ”Pat on Back” title for implementing the localization/Internationalization feature on time for release and significantly improving code quality through refactoring, addressing multiple loopholes, bugs, and code smells, and achieving a remarkable increase in unit test coverage from 67% to 86%",
-      "Tech Stack: Angular, TypeScript, JavaScript, Scss, Git-lab, Unit Testing : Karma and Jasmine."
+      "Tech Stack: ReactJs, Angular, TypeScript, JavaScript, Scss, Git-lab, Unit Testing : RTL, Jest, Karma and Jasmine."
     ],
     "id": 3
   },
@@ -17,7 +30,7 @@
     "from": "July 2022",
     "to": "November 2022",
     "company": "EPAM Systems",
-    "position": "Junior Software Engineer",
+    "position": "Software Engineer 1",
     "experience": [
       "Worked on EPAM internal application - EPAM Buddy",
       "Created multifunctional React components designed to seamlessly integrate into diverse projects, offering capabilities like pagination, pop-up dialogs, and accordions, with a focus on encouraging the reuse of code, and resolved UI bugs.",
