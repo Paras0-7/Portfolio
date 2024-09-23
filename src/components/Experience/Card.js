@@ -11,7 +11,7 @@ export const Card = function ({ experience }) {
       <div className="description">
         <ul>
           {experience.experience.map((exp, i) => (
-            <li key={i}>{exp}</li>
+            <li key={i} dangerouslySetInnerHTML = {{ __html: exp}}/>
           ))}
         </ul>
       </div>
