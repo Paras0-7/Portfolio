@@ -1,5 +1,17 @@
 [
   {
+    "name" : "CodeSync",
+    "githubLink" : "https://github.com/Paras0-7/codesync",
+    "deployed": "https://code-sync-azwv.onrender.com/",
+    "techstacks" : "JavaScript, React.js, Node.js, Express.js, WebSocket.io, Docker",
+    "description" : [
+      "Developed a collaborative coding platform using ReactJS for the front-end and NodeJS for the back-end, enabling real-time interaction among users.",
+      "Implemented WebSocket for real-time communication, allowing multiple users to join coding rooms, share code, and collaborate seamlessly.",
+      "Created a user-friendly interface that facilitates room creation and management, enhancing the overall user experience and engagement."
+    ],
+    "id":4
+  },
+  {
     "name": "Wild Oasis",
     "githubLink": "https://github.com/Paras0-7/wild-oasis",
     "deployed": "https://wild--oasis.vercel.app/",
