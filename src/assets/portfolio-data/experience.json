@@ -7,8 +7,8 @@
       "experience": [
         "Migrated the internal tool Quick Avails from JavaScript to TypeScript across both front-end and back-end, ensuring code quality and consistency by adhering to best practices. Also implemented <b>authentication</b> using the Locke Client with <b>Okta profiles</b> for secure access.",
         "Performed <b>8+ quarterly system health checks</b> leveraging Realm dashboards to monitor and maintain application stability and performance.",
-        "<ul> <li>Currently contributing to the Ads Creative Automation Tool project: <ul> <li> Contributing to the migration from SAS to Google Ad Manager (GAM).</li> <li> Set up AWS infrastructure using CloudFormation, including Lambda functions and S3 buckets.</li> <li> Designed and configured Apache Airflow DAGs and IAM roles to enable seamless access to BigQuery datasets.</li> <li> Identified and validated the integration of relevant Google Ad Manager (GAM) APIs by developing a proof of concept using the official SDK, tailored to our specific business requirements.</li></ul> </li></ul>"
-    ],
+        "Currently contributing to the Ads Creative Automation Tool project:<br> &nbsp;&nbsp;– Contributing to the migration from SAS to Google Ad Manager (GAM).<br>&nbsp;&nbsp;– Set up AWS infrastructure using CloudFormation, including Lambda functions and S3 buckets.<br>  &nbsp;&nbsp;– Designed and configured Apache Airflow DAGs and IAM roles to enable seamless access to BigQuery datasets.<br> &nbsp;&nbsp;– Identified and validated the integration of relevant Google Ad Manager (GAM) APIs by developing a proof of concept using the official SDK, tailored to our specific business requirements."
+      ],
     "id": 4
   },
   
