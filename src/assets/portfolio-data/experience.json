@@ -1,8 +1,21 @@
 [
+  {
+     "from": "February 2025",
+      "to": "Present",
+      "company": "REA Group",
+      "position": "Engineer FullStack - Media and Advertising Team",
+      "experience": [
+        "Migrated the internal tool Quick Avails from JavaScript to TypeScript across both front-end and back-end, ensuring code quality and consistency by adhering to best practices. Also implemented <b>authentication<b> using the Locke Client with <b>Okta profiles<b> for secure access.",
+        "Performed <b>8+ quarterly system health checks<b> leveraging Realm dashboards to monitor and maintain application stability and performance.",
+        "Currently contributing to the Ads Creative Automation Tool project <li> Contributing to the migration from SAS to Google Ad Manager (GAM).</li> <li> Set up AWS infrastructure using CloudFormation, including Lambda functions and S3 buckets.</li> <li> Designed and configured Apache Airflow DAGs and IAM roles to enable seamless access to BigQuery datasets.</li> <li> Identified and validated the integration of relevant Google Ad Manager (GAM) APIs by developing a proof of concept using the official SDK, tailored to our specific business requirements.</li>"
+    ],
+    "id": 4
+  },
+  
   
   {
     "from": "December 2022",
-    "to": "Present",
+    "to": "January 2025",
     "company": "EPAM Systems",
     "position": "Software Engineer 2",
     "experience": [
